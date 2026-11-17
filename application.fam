@@ -8,7 +8,7 @@ App(
     fap_category="Games",
     fap_icon="keilerei.png",
     fap_version="1.0",
-    fap_description="LCD-Brawler: Gegnerwellen, Kisten mit Waffen, wechselnde Umgebungen",
+    fap_description="LCD brawler: enemy waves, weapons in crates, changing arenas",
     fap_author="JB",
     fap_weburl="https://github.com/boeheimjonas-rgb/keilerei-flipper",
 )
