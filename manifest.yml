@@ -1,0 +1,16 @@
+# Manifest for the official Flipper Apps Catalog (flipperdevices/flipper-application-catalog)
+# Copy to: applications/Games/keilerei/manifest.yml in your catalog fork and set commit_sha.
+sourcecode:
+  type: git
+  location:
+    origin: https://github.com/boeheimjonas-rgb/keilerei-flipper.git
+    commit_sha: COMMIT_SHA
+short_description: "LCD-style brawler: enemy waves, weapons in crates, changing arenas"
+description: "@README.md"
+changelog: "@CHANGELOG.md"
+screenshots:
+  - "screenshots/screen1.png"
+  - "screenshots/screen2.png"
+  - "screenshots/screen3.png"
+  - "screenshots/screen4.png"
+  - "screenshots/screen5.png"
